@@ -1,9 +1,7 @@
 {
   "name": "MPCQ Mainnet",
   "chain": "MPCQ",
-  "rpc": [
-    "https://rpc.moneypoolscash.com"
-  ],
+  "rpc": ["https://rpc.moneypoolscash.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "MPCQ",
